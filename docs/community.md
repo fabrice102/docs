@@ -37,7 +37,8 @@ If you have a project you want featured on the community site, [reach out](mailt
 |------|------|
 | <center>[Rust SDK](https://github.com/mraof/rust-algorand-sdk) | RUST implementation of Algorand's REST API.|
 | <center>[.NET SDK](https://github.com/RileyGe/dotnet-algorand-sdk)</center> | This libary is built with C# and provides Algorand 2.0 features and is compliant with .NET Standard 2.0.
-
+| <center>[Dart SDK](https://github.com/alvistar/dart_algorand)</center> | Port of the Algorand Python SDK to Dart. Can be used with Flutter to create mobile, web, and desktop apps.
+  
 # API Wrappers
 | Name| Description |
 |------|------|
